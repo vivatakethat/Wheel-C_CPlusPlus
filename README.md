@@ -1,6 +1,6 @@
 
 
-![SerousSam3-BFE20161007140659](http://7xsic8.com1.z0.glb.clouddn.com/SerousSam3-BFE20161007140659_1.jpg "SerousSam3-BFE20161007140659")
+![SerousSam3-BFE20161007140659](http://7xsic8.com1.z0.glb.clouddn.com/pikapi.jpeg "SerousSam3-BFE20161007140659")
 
 # Visual Studio2015项目
 
