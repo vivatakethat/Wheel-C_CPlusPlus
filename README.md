@@ -22,3 +22,7 @@
 3. dynamic
 + CallFunction_dynamic：普通函数调用动态库
 + CallClass_dynamic：类方法调用动态库
+
+
+
+4. DesignPartter:设计模式
