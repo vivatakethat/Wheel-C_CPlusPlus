@@ -26,3 +26,9 @@
 
 
 4. DesignPartter:设计模式
+
+
+5. function:常用功能函数
+
+
+
